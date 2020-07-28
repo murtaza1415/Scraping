@@ -1,4 +1,6 @@
 # Scraping/Crawling
-Website data crawling using scrap and python.
+Website data extraction using Python and Scrapy.
 
-Website Crawled: https://www.zocdoc.com/
+Websites in this Project: 
+1) https://www.zocdoc.com/
+2) https://www.merriam-webster.com/
