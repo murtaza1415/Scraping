@@ -2,8 +2,7 @@ import scrapy
 import re
 
 base_address = 'https://www.merriam-webster.com/browse/dictionary/'
-#alphabets = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0']
-alphabets = ['a', 'b', 'c']
+alphabets = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '0']
 
 
 class DictSpider(scrapy.Spider):
