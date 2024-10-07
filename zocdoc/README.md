@@ -13,5 +13,3 @@ I wrote this script to crawl [Zocdoc](https://www.zocdoc.com) and the extracted 
 8) Certifications
 
 I have not made the data public due to privacy concerns.
-
-Contact: murtazamail15@gmail.com
